@@ -1,0 +1,6 @@
+pyproject.toml
+setup.cfg
+src/VTubeStudio.egg-info/PKG-INFO
+src/VTubeStudio.egg-info/SOURCES.txt
+src/VTubeStudio.egg-info/dependency_links.txt
+src/VTubeStudio.egg-info/top_level.txt
